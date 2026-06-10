@@ -73,10 +73,6 @@ For any issues or suggestions, feel free to reach out:
 📩 Email: Ashish9105335275@gmail.com
 🔗 GitHub: https://github.com/Ashish910533/face-recognition-project
 
-🎉 Happy Coding! 🚀
+🎉 Happy Coding! 
 🔹 Additional Notes
 Tested on Windows 10/11 with Python 3.10
-
-Works best with well-lit environments
-
-For Linux/Mac, remove cv2.CAP_DSHOW
