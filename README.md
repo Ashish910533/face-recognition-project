@@ -73,6 +73,6 @@ For any issues or suggestions, feel free to reach out:
 📩 Email: Ashish9105335275@gmail.com
 🔗 GitHub: https://github.com/Ashish910533/face-recognition-project
 
-🎉 Happy Coding! 
+🎉 Happy Coding! Ashish
 🔹 Additional Notes
 Tested on Windows 10/11 with Python 3.10
